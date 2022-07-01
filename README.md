@@ -8,3 +8,6 @@ Pueden hacer lo que quieran...
 
 ## Notas añadidas
 Versión actualizada
+
+## Otras notas
+notas simples
